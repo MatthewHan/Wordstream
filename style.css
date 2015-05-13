@@ -28,6 +28,9 @@
 	padding:5px;
 	border-radius:5px;
 	margin-right:25px;
+	border-style:ridge;
+	border-color: #FFF;
+	border-width:1px;
 }
 
 #headernav ul li{
