@@ -1,8 +1,6 @@
 *{
 	margin:0px;
 	padding:0px;
-	outline-color:red;
-	outline-width: 5px;
 	font-family: "Arial";
 }
 
@@ -300,6 +298,35 @@ img.vertical{
 #mainbodyadtext{
 	display:inline-block;
 	width:550px;
+}
+
+#ad{
+	background-image: url("images/left_content_ad.png");
+	width:198px;
+	height:241px;
+}
+
+#ad h6{
+	color:#2D72A5;
+	padding:5px;
+	font-size:16px;
+}
+
+#ad p{
+	color:#585858;
+	padding:5px;
+}
+
+.gradedbtn{
+	background: #1F5B91;
+	-webkit-border-radius: 5;
+	-moz-border-radius: 5;
+	border-radius: 5px;
+	color: #ffffff;
+	padding: 2px 10px;
+	text-decoration: none;
+	border-style:none;
+	margin-left:5px;
 }
 /*BODY CSS END*/
 
